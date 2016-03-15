@@ -1,0 +1,25 @@
+body{
+  background-color:#666699;
+}
+
+h1,h2,h3,h4{
+  color: #ffffff;
+  text-align: center;
+  font-family: cursive;
+ }
+
+ img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+ ul{
+   text-align: center;
+   font-family: sans-serif;
+ }
+
+ p{
+   text-align: center;
+   font-family: sans-serif;
+ }
